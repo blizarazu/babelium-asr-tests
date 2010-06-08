@@ -1,3 +1,0 @@
-grammar fine_thank_you_esaldika;
-
-public <commands> = fine thank you;

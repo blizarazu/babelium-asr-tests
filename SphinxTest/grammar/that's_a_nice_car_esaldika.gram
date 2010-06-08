@@ -1,3 +1,0 @@
-grammar that's_a_nice_car_esaldika;
-
-public <commands> = that's a nice car;

@@ -1,5 +1,0 @@
-grammar i_have_three_sisters_esaldika_osoa;
-
-public <commands> = <word> <word> <word> <word>;
-
-public <word> = i | have | three | sisters;

@@ -1,3 +1,0 @@
-grammar i_have_three_sisters_esaldika;
-
-public <commands> = i have three sisters;

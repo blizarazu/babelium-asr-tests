@@ -1,5 +1,0 @@
-grammar osoa;
-
-public <commands> = <word>*;
-
-public <word> = fine | thank | you | nice | to | meet | they're | very | light | that's | a | car | i | have | three | sisters | i'll | be | nineteen | next | month | it's | just | like | mine | don't | speak | english | well;
