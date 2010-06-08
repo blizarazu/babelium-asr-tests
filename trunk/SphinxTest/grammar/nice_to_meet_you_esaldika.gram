@@ -1,3 +1,0 @@
-grammar nice_to_meet_you_esaldika;
-
-public <commands> = nice to meet you;

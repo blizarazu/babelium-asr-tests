@@ -1,3 +1,0 @@
-grammar choose;
-
-public <commands> = ( fine thank you ) | ( nice to meet you ) | ( they're very light ) | ( that's a nice car ) | ( i have three sisters ) | ( i'll be nineteen next month ) | ( it's just like mine ) | ( i don't speak english very well );
