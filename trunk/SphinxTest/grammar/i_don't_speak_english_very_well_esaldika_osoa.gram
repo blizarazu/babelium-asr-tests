@@ -1,0 +1,5 @@
+grammar i_don't_speak_english_very_well_esaldika_osoa;
+
+public <commands> = <word> <word> <word> <word> <word> <word>;
+
+public <word> = i | don't | speak | english | very | well;

@@ -1,0 +1,5 @@
+grammar nice_to_meet_you_esaldika_osoa;
+
+public <commands> = <word> <word> <word> <word>;
+
+public <word> = nice | to | meet | you;

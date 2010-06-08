@@ -1,0 +1,5 @@
+grammar they're_very_light_esaldika_osoa;
+
+public <commands> = <word> <word> <word>;
+
+public <word> = they're | very | light;
