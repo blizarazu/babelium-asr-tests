@@ -1,0 +1,5 @@
+grammar it's_just_like_mine_esaldika_osoa;
+
+public <commands> = <word> <word> <word> <word>;
+
+public <word> = it's | just | like | mine;

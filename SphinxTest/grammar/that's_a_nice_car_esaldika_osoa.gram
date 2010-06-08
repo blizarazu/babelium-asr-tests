@@ -1,0 +1,5 @@
+grammar that's_a_nice_car_esaldika_osoa;
+
+public <commands> = <word> <word> <word> <word>;
+
+public <word> = that's | a | nice | car;

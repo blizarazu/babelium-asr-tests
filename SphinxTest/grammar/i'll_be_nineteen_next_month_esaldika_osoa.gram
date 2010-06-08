@@ -1,0 +1,5 @@
+grammar i'll_be_nineteen_next_month_esaldika_osoa;
+
+public <commands> = <word> <word> <word> <word> <word>;
+
+public <word> = i'll | be | nineteen | next | month;

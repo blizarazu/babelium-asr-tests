@@ -1,0 +1,5 @@
+grammar fine_thank_you_esaldika_osoa;
+
+public <commands> = <word> <word> <word>;
+
+public <word> = fine | thank | you;
